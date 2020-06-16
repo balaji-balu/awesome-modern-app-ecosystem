@@ -18,6 +18,7 @@ Blitzjs
 ## Graphql 
 * Apollo graphql server, graphql client 
 * [Apollo Federation](https://www.apollographql.com/docs/apollo-server/federation/introduction/)
+* [Graphql-shield](https://github.com/maticzav/graphql-shield)
 
 ## Kubernetes 
 * [cert-manager](https://cert-manager.io/docs/) is a native Kubernetes certificate management controller. It can help with issuing certificates from a variety of sources, such as Let’s Encrypt, HashiCorp Vault, Venafi, a simple signing key pair, or self signed.
