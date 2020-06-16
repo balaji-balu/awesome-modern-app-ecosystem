@@ -9,6 +9,9 @@ Awesome modern applications ecosystem
 ## BI (Business Intelligence) 
 * [Apache Superset](https://superset.incubator.apache.org/index.html) is a modern, enterprise-ready business intelligence web application
 
+## Graphql 
+Apollo 
+
 ## Kubernetes 
 * [cert-manager](https://cert-manager.io/docs/) is a native Kubernetes certificate management controller. It can help with issuing certificates from a variety of sources, such as Let’s Encrypt, HashiCorp Vault, Venafi, a simple signing key pair, or self signed.
 
