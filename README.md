@@ -6,7 +6,7 @@ Awesome modern applications ecosystem
 ### UI frameworks 
 * [Chakra UI](https://chakra-ui.com/) is a simple, modular and accessible component library that gives you all the building blocks you need to build your React applications.
 
-## Fullstack frameworks
+## Fullstack frameworks (ruby on rails for javascript)
 
 Redwoodjs
 
@@ -28,6 +28,10 @@ Blitzjs
 
 ## Security
 <img src="https://www.keycloak.org/resources/images/keycloak_logo_480x108.png" width="100" height="30">[Keycloak](https://www.keycloak.org/) from redhat is an open source Identity and Access Management(IAM) for Modern Applications and Services
+* SSO
+* LDAP and Active directory integration
+* Social Login
+* OpenID Connect, OAuth 2.0 and SAML 2.0
 
 ## Headless CMS
 * Contentful
@@ -37,5 +41,5 @@ Blitzjs
 * commerceLayer
 
 ## Database 
-primsa 2
-knex.js 
+* primsa 2
+* knex.js 
