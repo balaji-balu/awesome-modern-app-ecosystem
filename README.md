@@ -17,5 +17,5 @@ Awesome modern applications ecosystem
 * <img src="https://pbs.twimg.com/profile_images/1105325308633178112/cFwIO-21_400x400.png" width="100" height="100">  [Tekton](https://tekton.dev/) is a powerful and flexible open-source framework for creating CI/CD systems, allowing developers to build, test, and deploy across cloud providers and on-premise systems. 
 
 ## Security
-* [Keycloak](https://www.keycloak.org/) from redhat is an open source Identity and Access Management(IAM) for Modern Applications and Services
+* <img src="https://www.keycloak.org/resources/images/keycloak_logo_480x108.png" width="100" height="100">[Keycloak](https://www.keycloak.org/) from redhat is an open source Identity and Access Management(IAM) for Modern Applications and Services
 
