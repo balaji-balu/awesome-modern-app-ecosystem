@@ -6,11 +6,18 @@ Awesome modern applications ecosystem
 ### UI frameworks 
 * [Chakra UI](https://chakra-ui.com/) is a simple, modular and accessible component library that gives you all the building blocks you need to build your React applications.
 
+## Fullstack frameworks
+
+Redwoodjs
+
+Blitzjs
+
 ## BI (Business Intelligence) 
 * [Apache Superset](https://superset.incubator.apache.org/index.html) is a modern, enterprise-ready business intelligence web application
 
 ## Graphql 
-Apollo 
+* Apollo graphql server, graphql client 
+* [Apollo Federation](https://www.apollographql.com/docs/apollo-server/federation/introduction/)
 
 ## Kubernetes 
 * [cert-manager](https://cert-manager.io/docs/) is a native Kubernetes certificate management controller. It can help with issuing certificates from a variety of sources, such as Let’s Encrypt, HashiCorp Vault, Venafi, a simple signing key pair, or self signed.
@@ -22,3 +29,9 @@ Apollo
 ## Security
 <img src="https://www.keycloak.org/resources/images/keycloak_logo_480x108.png" width="100" height="30">[Keycloak](https://www.keycloak.org/) from redhat is an open source Identity and Access Management(IAM) for Modern Applications and Services
 
+## Headless CMS
+* Contentful
+* Sanity.io
+
+## Headless ecommerce 
+* commerceLayer
