@@ -35,12 +35,12 @@ Helm is the best way to find, share, and use software built for Kubernetes.
 
 <img src="https://pbs.twimg.com/profile_images/1105325308633178112/cFwIO-21_400x400.png" width="100" height="100">  [Tekton](https://tekton.dev/) is a powerful and flexible open-source framework for creating CI/CD systems, allowing developers to build, test, and deploy across cloud providers and on-premise systems. 
 
-[Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+- [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 
-This tutorial walks you through setting up Kubernetes the hard way. This guide is not for people looking for a fully automated command to bring up a Kubernetes cluster. If that's you then check out Google Kubernetes Engine, or the Getting Started Guides.
+  - This tutorial walks you through setting up Kubernetes the hard way. This guide is not for people looking for a fully automated command to bring up a Kubernetes cluster. If that's you then check out Google Kubernetes Engine, or the Getting Started Guides.
 
-Kubernetes The Hard Way is optimized for learning, which means taking the long route to ensure you understand each task required to bootstrap a Kubernetes cluster.
+  - Kubernetes The Hard Way is optimized for learning, which means taking the long route to ensure you understand each task required to bootstrap a Kubernetes cluster.
 
 ## Security
 <img src="https://www.keycloak.org/resources/images/keycloak_logo_480x108.png" width="200" height="60">[Keycloak](https://www.keycloak.org/) from redhat is an open source Identity and Access Management(IAM) for Modern Applications and Services
