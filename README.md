@@ -19,6 +19,8 @@ Blitzjs
 * Apollo graphql server, graphql client 
 * [Apollo Federation](https://www.apollographql.com/docs/apollo-server/federation/introduction/)
 * [Graphql-shield](https://github.com/maticzav/graphql-shield)
+* [urql](https://formidable.com/open-source/urql/) from formidable labs
+urql is a blazing-fast GraphQL client that supports React, Preact, and Svelte (alpha)
 
 ## Docker 
 
@@ -48,6 +50,8 @@ Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 * LDAP and Active directory integration
 * Social Login
 * OpenID Connect, OAuth 2.0 and SAML 2.0
+
+[Authelia](https://github.com/authelia/authelia)
 
 ## Headless CMS
 * Contentful
